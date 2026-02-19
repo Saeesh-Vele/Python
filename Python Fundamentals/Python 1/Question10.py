@@ -1,0 +1,5 @@
+A = float(input("Enter Float Value for A :"))
+X = int(A)
+print("Integer Value for A is : " + str(X))
+Y = float(A - X)
+print("Float Value for A is : " + str(Y))
