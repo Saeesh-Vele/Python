@@ -1,0 +1,3 @@
+Python program succesfully compiled 
+good code 
+Dont use vs code
